@@ -6,6 +6,6 @@
 # 데이터 소개
 ![image](https://github.com/forkgmltnr/Mobile-Game-A-B-Testing/assets/61262393/05b42033-c726-47e2-984a-7ded0f3cf35c)
 * version: 플레이어가 게임을 일시적으로 중지하는 시점
-  ** version은 게임 플레이 레벨 30& 40(gate_30& gate_40)에서 활성화되어 유저의 게임 플레이를 중단하여 게임을 진행하기 위해서는
+  *  version은 게임 플레이 레벨 30& 40(gate_30& gate_40)에서 활성화되어 유저의 게임 플레이를 중단하여 게임을 진행하기 위해서는
 광고를 보거나 인앱 구매로 게임을 바로 구매 해야한다
 
