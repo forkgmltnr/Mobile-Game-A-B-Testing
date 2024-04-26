@@ -10,4 +10,12 @@
 광고를 보거나 인앱 구매로 게임을 바로 구매 해야한다
 * sum_gamerounds: 첫 주에 유저가 플레이한 게임 라운드 수
 * retention_1: 게임 설치 후 1일 이내 복귀 여부
-* retention_7: 게임 설치 후 7일 이내 복귀 부
+* retention_7: 게임 설치 후 7일 이내 복귀 여부
+
+# 이진화
+
+![image](https://github.com/forkgmltnr/Mobile-Game-A-B-Testing/assets/61262393/1034c19f-1686-4fd4-b9c1-e239254b9722)
+* 시각화& 리텐션& 고착도& 부트스트랩& A/B 검정을 진행하기 위한 데이터 전처리
+* Bool 타입 retention_1& retention_7 데이터 이진화 적용
+* True인 경우 '1'설정하여 '복귀' 처리
+* False인 경우 '0' 설정하여 '미복귀' 처리
