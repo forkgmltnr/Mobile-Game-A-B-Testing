@@ -15,7 +15,7 @@
 # 이진화
 
 ![image](https://github.com/forkgmltnr/Mobile-Game-A-B-Testing/assets/61262393/1034c19f-1686-4fd4-b9c1-e239254b9722)
-* 시각화& 리텐션& 고착도& 부트스트랩& A/B 검정을 진행하기 위한 데이터 전처리
+### 시각화& 리텐션& 고착도& 부트스트랩& A/B 검정을 진행하기 위한 데이터 전처리
 * Bool 타입 retention_1& retention_7 데이터 이진화 적용
 * True인 경우 '1'설정하여 '복귀' 처리
 * False인 경우 '0' 설정하여 '미복귀' 처리
