@@ -19,3 +19,10 @@
 * Bool 타입 retention_1& retention_7 데이터 이진화 적용
 * True인 경우 '1'설정하여 '복귀' 처리
 * False인 경우 '0' 설정하여 '미복귀' 처리
+
+
+# 리텐션
+![image](https://github.com/forkgmltnr/Mobile-Game-A-B-Testing/assets/61262393/ed2ae52f-e854-4c66-89c4-b8428aeb1472)
+* 리텐션율 = (복귀 사용자 수/ 전체 사용자 수)*100
+ * 리텐션율: 고객이 서비스를 지속해서 사용하여 유지되는 비율
+* 게임 버전 gate_30 유저 복귀율이 gate_40 버전보다 높다 
