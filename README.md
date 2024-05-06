@@ -14,7 +14,7 @@
 
 # 모바일 게임 버전 유저 플레이 횟수 비교
 ![image](https://github.com/forkgmltnr/Mobile-Game-A-B-Testing/assets/61262393/8d4d926e-8335-4fc8-93e0-f761bb12357e)
-
+* gate_40 버전 유저의 초기 플레이 횟수가 많다
 
 
 
