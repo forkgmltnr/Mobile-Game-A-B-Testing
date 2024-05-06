@@ -66,6 +66,8 @@
 
 
 # Wilcoxon Rank-Sum Test 순위합 검정
+![image](https://github.com/forkgmltnr/Mobile-Game-A-B-Testing/assets/61262393/788675b4-0772-4294-83fa-25759e3e6c9c)
+
 * Wilcoxon: 관련된 2개 표본& 일치 표본& 반복 측정된 표본간 비교할 때 사용
 * Wiolcoxon Rank-Sum Test: 2개 표본이 같은 분포에서 나왔는지 검정 할 때 사용
 * 데이터가 정규 분포를 따르지 않고 이상치에 대한 영향이 적은 Wilcoxon 검정 사용
@@ -74,9 +76,18 @@
 
 
 # Fisher 검정
+![image](https://github.com/forkgmltnr/Mobile-Game-A-B-Testing/assets/61262393/d8b3a6ff-8f9e-4491-8441-62f8413de753)
+
 * Fisher: 2개의 범주형 변수 사이의 독립성 검정& 연관성에 대한 유의성 평가
 * 카이제곱과 같이 Fisher 검정은 두 범주형 변수 사이의 독립성 평가하여 Fuisher 정확 검정 사용
 * 1일 복귀 결과 유의수준 0.05보다 높아 유의미한 결과 미 존재
 * 7일 복귀 결과 유의수준 0.05보다 낮아 유의미한 결과 존재
 
+
+# Result
+![image](https://github.com/forkgmltnr/Mobile-Game-A-B-Testing/assets/61262393/b80d4958-99ee-461b-b668-3f940f27699d)
+* 리텐션율& 고착도 지표 모두 gate_30 버전이 유저 복귀 참여율 수치가 높게 나와 gate_30 버전의 게임 마케팅& 게임 업데이트& 유저 복귀 전략 세우는 것이 좋다 결론
+* 1일 복귀 경우 유저의 생활패턴& 짧은 데이터 기간& 게임 취향 등 1일 복귀에 대해서 크게 의미가 없다 판단
+* 7일 복귀 경우 4개 검정의 p-value값이 유의 수준인 0.05보다 낮아 유의미한 결과 값이 도출되어 7일 복귀 유저 뿐만 아니라 장기 유저 복귀 마케팅 복귀 전략 세우는 것이 좋다 판단
+* 요약: gate_30 버전의 인앱 구매 유도 광고 마케팅을 효과적으로 진행
   
