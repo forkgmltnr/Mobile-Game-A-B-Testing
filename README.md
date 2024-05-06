@@ -12,6 +12,13 @@
 * retention_1: 게임 설치 후 1일 이내 복귀 여부
 * retention_7: 게임 설치 후 7일 이내 복귀 여부
 
+# 모바일 게임 버전 유저 플레이 횟수 비교
+![image](https://github.com/forkgmltnr/Mobile-Game-A-B-Testing/assets/61262393/1c1ca9bd-0a6e-4ee5-8c70-1223de9edcf1)
+![image](https://github.com/forkgmltnr/Mobile-Game-A-B-Testing/assets/61262393/e0b646b5-3f80-4a7c-9750-d3709cad3a56)
+
+
+
+
 # 순서
 ![image](https://github.com/forkgmltnr/Mobile-Game-A-B-Testing/assets/61262393/61c0e5c9-ed2d-4b0e-8c4d-33bde7f2a3fe)
 
